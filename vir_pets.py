@@ -1,3 +1,9 @@
+# This is a virtual pet game that I created to increase the user engagement of the project.
+# This game is both entertaining and educative of how to take care of a new born puppy by displaying warnings and restrictions.
+# If you are a beginner in Python, then this will be an easy code for you to understand 
+# as it is mostly conditional statements and loops.
+
+
 import time
 import datetime
 import random
