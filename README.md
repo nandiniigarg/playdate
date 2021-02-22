@@ -25,7 +25,8 @@ These libraries were used to create the following components:
   3. Wikepedia Search (Vinayak Kumar Gupta)
   4. Email Sender (Vinayak K. Gupta, Aastha Sinha)
   5. User Chat Boxes (Vinayak K. Gupta, Aastha Sinha)
-  6. Floof Plus (Virtual Pet Game) (Nandini Garg)
+  6. Dog-Age Calculator (Sakshi Saxena)
+  7. Floof Plus (Virtual Pet Game) (Nandini Garg)
 
 We see potential in this project to expand and have various features like:
 
