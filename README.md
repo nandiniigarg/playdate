@@ -8,7 +8,26 @@ Another part of this upload is the personalised blog section which has data for 
 
 This project right now is written in Python but I want to learn and implement Django as a framework so that I can ultimately create a working web application that can be used in every dog's household. :)
 
-I see potential in this project to expand and have various features like:
+We have used the following libraries:
+
+   1. tkinter
+   2. Socket
+   3. Wikepedia
+   4. Random
+   5. Time
+   6. DateTime
+   7. Pillow
+
+These libraries were used to create the following components:
+
+  1. Login and Registeration (Shristi Agarwal)
+  2. Matching algorithm (Nandini Garg)
+  3. Wikepedia Search (Vinayak Kumar Gupta)
+  4. Email Sender (Vinayak K. Gupta, Aastha Sinha)
+  5. User Chat Boxes (Vinayak K. Gupta, Aastha Sinha)
+  6. Floof Plus (Virtual Pet Game) (Nandini Garg)
+
+We see potential in this project to expand and have various features like:
 
   1. Covid Checker - 
   Checking the number of covid cases in your state so you can see if it is safe to travel.
@@ -21,4 +40,4 @@ I see potential in this project to expand and have various features like:
   5. Community Help - 
   A community section can be added to the web application where there will be suggestions from actual verified pet owners and a place for influencers where they can bring pet owners closer to local businesses and brands to promote the Vocal for Local movement.
 
-This is my first project and I hope to learn more and more and add more components to this project that feel relevant to the project. I want to hopefully publish this project one day and help a great number of families and our loyal friends of course. Please feel free to share knowledge with me which can be the different technologies I can use to accomplish what I aspire for this web app to become.
+
