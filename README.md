@@ -1,5 +1,3 @@
-# MY FIRST PROJECT FOR OPEN SOURCE :)
-
 This is Playdate. 
 
 Playdate helps you find a suitable mate for your pet dog. Finding a mate for your dog that is suitable is actually a problem that, if not taken care of can lead to the birth of unhealthy puppies. These problems can be taken care of by considering a few parameters that I have included in my main matching algorithm.
